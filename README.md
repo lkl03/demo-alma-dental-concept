@@ -1,2 +1,7 @@
-# demo-alma-dental-concept
-Demo web para ALMA Dental Concept — diseñada por eterlab.
+# ALMA Dental Concept
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
